@@ -79,6 +79,9 @@ When you run python3 application.py, you will see a menu:
 6. List all tasks (unsorted)
 7. Quit
 
+### Screenshots
+
+
 
 ### Example workflow
 
