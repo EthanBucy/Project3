@@ -63,8 +63,6 @@ cd src
 python3 application.py
 
 
-
-
 ## Usage Guide
 
 
@@ -81,6 +79,9 @@ When you run python3 application.py, you will see a menu:
 
 ### Screenshots
 
+![Alt text for the image](screenshots/1.png)
+![Alt text for the image](screenshots/2.png)
+![Alt text for the image](screenshots/3.png)
 
 
 ### Example workflow
